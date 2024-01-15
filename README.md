@@ -20,6 +20,7 @@ The provided Python script is an implementation of a Tic-Tac-Toe game, supportin
 4. **User Input Handling:**
    - User inputs are handled with some basic validation to ensure valid moves.
    - Incorrect inputs prompt the user to try again.
+   - Incorrect move will lead to game end.
 
 5. **Outcome Display:**
    - The game concludes when a player wins, there is a draw, or the user chooses to exit.
